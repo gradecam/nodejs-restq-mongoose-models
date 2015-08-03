@@ -1,6 +1,8 @@
 {
   "name": "restq-mongoose-models",
   "version": "0.1.0",
+  "repository": "https://github.com/gradecam/nodejs-restq-mongoose-models.git",
+  "license": "MIT",
   "private": false,
   "dependencies": {
     "cron-parser": "^0.6.4",
