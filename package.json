@@ -1,0 +1,13 @@
+{
+  "name": "restq-mongoose-models",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "cron-parser": "^0.6.4",
+    "lodash": "^3.10.0",
+    "moment-timezone": "^0.4.0",
+    "mongoose": "^4.1.0",
+    "ms": "^0.7.1",
+    "q": "^1.4.1"
+  }
+}
